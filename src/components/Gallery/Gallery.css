@@ -1,0 +1,124 @@
+.title
+{
+    margin-left: 250px;
+    width: 1300px;
+    padding: 15px;
+}
+
+.card_section1,.card_section3,.card_section5,.card_section7,.card_section9
+{
+    width:750px;
+    margin-left: 10px;
+}
+
+.card_section2,.card_section4,.card_section6,.card_section8,.card_section10
+{
+    
+    margin-left: 170px;
+}
+.card
+{
+    background-clip: none;
+    border: 0ch;
+}
+
+
+.footer
+{
+    width: 500px;
+    height:300px;
+}
+
+.main
+{
+    width: 150px;
+    height: 3000px;
+}
+
+
+.rt 
+{
+    width: 500px;
+}
+
+
+.first_section
+{
+    margin-left: 110px;
+    width:1300px;
+    height:800px;
+    display: flex;
+}
+
+.second_section
+{
+    margin-left: 110px;
+
+    width:1000px;
+    height:1000px;
+    display: flex;
+}
+
+.third_section
+{
+    margin-left: 110px;
+    width:1000px;
+    height:900px;
+    display: flex;
+}
+
+.fourth_section
+{
+    margin-left: 110px;
+    width:1000px;
+    height:900px;
+    display: flex;
+}
+
+.fifth_section
+{
+    margin-left: 110px;
+    width:1000px;
+    height:900px;
+    display: flex;
+}
+
+.download
+{
+    letter-spacing: normal;
+    color: white;
+    background-color: #000080;
+    margin-right: 10px;
+}
+.share
+{
+    color: white;
+    background-color: #000080;
+    margin-right: 10px;
+}
+.like
+{
+    color: white;
+    background-color: #000080;
+    margin-right: 10px;
+}
+.read_mo
+{
+    margin-top: 3px;
+    color: white;
+    background-color: #000080;
+    margin-left: -25px;
+}
+
+.read
+{
+    margin-top: 2px;
+    color: white;
+    background-color: #000080;
+    margin-left: -18px;
+}
+
+.buttons_section
+{
+    width: 900px;
+}

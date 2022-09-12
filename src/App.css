@@ -1,0 +1,37 @@
+body{
+  /* padding: 0%; */
+  width: 90px;
+}
+
+.main_container{
+  display: block;
+  width: 1260px;
+  height: 1000%;
+}
+
+.middleboard{
+  width: 1260px;
+  height: 750px;
+  background-color: #e9e2e1;
+  display: block;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.upperboard{
+  display: flex;
+  width: 1260px;
+  height: 120px;
+  background-color:#0abd8a;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.endboard{
+  background-color:#f5f9f8;
+  display: flex;
+  width: auto;
+  height: 1000px;
+  border-style: inherit;
+  border-color: #050505;
+}

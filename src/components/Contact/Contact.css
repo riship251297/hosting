@@ -1,0 +1,60 @@
+.heading
+{
+    width: 1500px;
+}
+
+.middle
+{
+    padding: 20px;
+    margin-left: 60px;
+}
+
+.text
+{
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.group
+{
+    margin-top: 60px;
+    margin-left: 550px;
+    width: 550px;
+    height: 550px;
+    background-color: #0abd8a;
+}
+
+.f_section 
+{
+    margin-top: 10px;
+    margin-left: 100px;
+    padding: 20px;
+}
+
+.s_section
+{
+    margin-left: 100px;
+    padding: 20px;
+} 
+
+.area
+{
+    margin-left: 120px;
+}
+
+.aream
+{
+    display: table-caption;
+    margin-top: -5px;
+}
+.submit_section
+{
+    margin-top:20px;
+    margin-left: 220px;
+}
+
+.footer
+{
+    width: 500px;
+    height:300px;
+}
+
